@@ -1,4 +1,4 @@
-# Hotel Reservation Django Project
+# Hotel Reservation Django Project by Essam Fakher 
 
 The Hotel Reservation Django project is a web application that allows users to reserve hotel rooms. It consists of three main apps: `users`, `room`, and `reservations`. Users can register, log in, and make reservations for available rooms. Admins have access to an admin panel for managing users, rooms, and reservations.
 
@@ -39,3 +39,4 @@ To set up and run this project, follow these steps:
 1. Clone the project repository from GitHub:
 
    ```bash
+   git clone https://github.com/essam5/hotel-management.git
