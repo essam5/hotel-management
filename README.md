@@ -7,13 +7,7 @@ The Hotel Reservation Django project is a web application that allows users to r
 1. [Project Overview](#project-overview)
 2. [Project Structure](#project-structure)
 3. [Installation](#installation)
-4. [Configuration](#configuration)
-5. [Usage](#usage)
-6. [Testing](#testing)
-7. [API Endpoints](#api-endpoints)
-8. [Database Schema](#database-schema)
-9. [Contributing](#contributing)
-10. [License](#license)
+
 
 ## 1. Project Overview
 
